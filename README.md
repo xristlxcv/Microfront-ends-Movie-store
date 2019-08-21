@@ -11,4 +11,34 @@ Here is the structure of the project.
 
 # Details
 
+``` 
+npm start 
+
+```
+renders all apps
+``` 
+http://localhost:8080/
+```
+or
+``` 
+http://localhost:8080/home
+``` 
+renders movies apps
+``` 
+http://localhost:8080/movies
+``` 
+renders cart apps
+``` 
+http://localhost:8080/cart
+``` 
+renders rakings apps
+``` 
+http://localhost:8080/vue
+``` 
+renders reccomendation apps
+``` 
+http://localhost:8080/recommendation
+``` 
+
+
 for more info visit--->https://single-spa.js.org/
