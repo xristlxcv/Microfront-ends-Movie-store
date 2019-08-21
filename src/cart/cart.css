@@ -1,0 +1,45 @@
+#first {
+  left: 20;
+  background-color: rgb(92, 5, 190);
+  width: 450px;
+  height: 450px;
+  position: absolute;
+  margin-top: 18%;
+  border-radius: 10px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 5);
+}
+li {
+  font-size: 2em;
+  color: white;
+  display: flex;
+  margin-left: 25px;
+  padding-left: 20px;
+}
+#cart {
+  color: white;
+}
+.increment {
+  border-radius: 5px;
+  background-color: rgb(222, 141, 135);
+  width: 50px;
+  height: 40px;
+  padding-top: 1px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.decrement {
+  border-radius: 5px;
+  background-color: rgb(226, 132, 8);
+  width: 50px;
+  height: 40px;
+}
+.count {
+  color: aliceblue;
+  background-color: rgb(26, 199, 127);
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  right: 10px;
+  float: right;
+  margin-left: 10px;
+}
