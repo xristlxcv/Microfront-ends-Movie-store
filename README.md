@@ -1,4 +1,4 @@
-# Microfront-ends-Movie-store
+# Microfrontends-Movie-store
 ![](https://media.giphy.com/media/SVloOeaCqvFLLWXOHR/giphy.gif)
 
 # Description
